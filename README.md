@@ -106,7 +106,7 @@ To get a local copy up and running follow these simple example steps.
 1. Get a free API Key from Cloudinary and Razorpay
 2. Clone the repo
    ```sh
-   git clone https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform.git
+   git clone https://github.com/amanraooo/StudyNotion-main.git
    ```
 3. Go to the
    ```sh
